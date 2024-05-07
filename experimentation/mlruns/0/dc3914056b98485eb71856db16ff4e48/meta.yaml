@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dc3914056b98485eb71856db16ff4e48/artifacts
+end_time: 1715078896638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3914056b98485eb71856db16ff4e48
+run_name: fortunate-midge-268
+run_uuid: dc3914056b98485eb71856db16ff4e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715078894444
+status: 4
+tags: []
+user_id: amcg809
